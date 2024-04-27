@@ -1,1 +1,1 @@
- <script>alert('XSS 공격 성공!')</script>
+![XSS](javascript:alert('XSS 공격 성공!'))
